@@ -1,0 +1,10 @@
+.post-title{
+    text-align: center;
+}
+
+.post-text:first-child{
+    text-align: left;
+}
+.post-text:last-child{
+    text-align: justify;
+}
