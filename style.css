@@ -1,12 +1,16 @@
-span{
+span {
     text-decoration: line-through;
 }
-.title{
+
+.title {
     font-size: 100px;
 }
-.text{
-    line-height: 1.7.;
+
+.text {
+    line-height: 1.7;
+    text-indent: 100px;
 }
-.link{
-    box-shadow: 100px red;
+
+.link {
+    text-shadow: 2px 4px 4px red;
 }
