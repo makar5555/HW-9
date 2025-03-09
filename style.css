@@ -2,15 +2,11 @@ span {
     text-decoration: line-through;
 }
 
-.title {
-    font-size: 100px;
-}
-
 .text {
-    line-height: 1.7;
     text-indent: 100px;
+    line-height: 1.7;
 }
 
 .link {
-    text-shadow: 2px 4px 4px red;
+    text-shadow: 4px 4px 4px red;
 }
